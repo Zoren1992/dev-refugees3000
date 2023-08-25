@@ -285,12 +285,15 @@ a {
 .header__logo > img {
   height: 3.2rem;
   width: 3.2rem;
+  margin-bottom: 6px;
+  margin-top: -4px;
 }
 
 .header__logo > h1 {
   font-weight: 700;
   font-size: 2rem;
   color: var(--color-light);
+  margin-top: -1px;
 }
 
 .header__search > label {

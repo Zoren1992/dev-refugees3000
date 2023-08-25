@@ -8,11 +8,7 @@ This web app is designed for program developer to ask questions about multiple l
 Dev-Refugee It is a Q&A community that allows developers to create chat rooms and invite friends. Users can view the Q&A records of all rooms and the most recently active rooms. Host can update and delete room informations. Rooms can be categorized based on different code languages. 
 ## Screenshots:
 
-### Home Page (not logged in)
-![alt text]()
-
-
-### Home Page (already logged in)
+### Home Page 
 ![alt text]()
 
 
